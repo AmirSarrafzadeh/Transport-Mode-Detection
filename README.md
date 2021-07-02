@@ -7,5 +7,8 @@ There exist 2 Separate Folders:
 1) GPS 
 2) Label 
 
+If you do not want to run the preprocceing part of data, and want just run the CNN model you can use the proprocessed data in the below link:
+
+
 If you face any problem in the project you can reach me by this email:
 amir@wheretech.it
