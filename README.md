@@ -3,7 +3,7 @@
 This project is done on the Geolife Dataset, which is available in the below link.
 https://drive.google.com/drive/folders/1P7zuod6aWizSGFxcUxbbatXvvQ94jC9v?usp=sharing
 
-There exist 3 Separate Folders:
+There exist 2 Separate Folders:
 1) Geolife 
 2) Preprocessed Data
 
